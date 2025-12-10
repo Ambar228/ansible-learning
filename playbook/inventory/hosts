@@ -1,5 +1,5 @@
 [staging_servers]
-Ubuntu ansible_host=192.168.0.229
+Ubuntu ansible_host=192.168.0.229    owner="Petya"
 
 [host_servers]
-Ubuntu2 ansible_host=192.168.0.223
+Ubuntu2 ansible_host=192.168.0.223   owner="Vasya"
